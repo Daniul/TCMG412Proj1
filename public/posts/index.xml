@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev Teams Recently watched movies</title>
-    <link>https://daniul.github.io/TCMG412Proj1/</link>
-    <description>Recent content on Dev Teams Recently watched movies</description>
+    <title>Posts on Dev Teams Recently watched movies</title>
+    <link>https://daniul.github.io/TCMG412Proj1/posts/</link>
+    <description>Recent content in Posts on Dev Teams Recently watched movies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 16:45:07 -0600</lastBuildDate><atom:link href="https://daniul.github.io/TCMG412Proj1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 16:45:07 -0600</lastBuildDate><atom:link href="https://daniul.github.io/TCMG412Proj1/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What has Gaby watched (from the top of her head)</title>
       <link>https://daniul.github.io/TCMG412Proj1/posts/gabymovies/</link>
